@@ -1,4 +1,4 @@
-# mysql
+Se # mysql
 mysql for 5.7
 创建用户：  create user 'springdev'@'%' identified by 'springdev_mysql';
 创建数据库：create database springdev default charset 'utf8mb4' default collate utf8mb4_general_ci;
